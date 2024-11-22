@@ -1,0 +1,7 @@
+public class Marsyanda
+{
+	public static void main (string[] args)
+	{
+		system.out.println("Nama saya adalah Marsyanda Anggoman. Dan ini adalah program pertama saya menggunkan java.");
+	}
+}
